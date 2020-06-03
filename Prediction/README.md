@@ -5,4 +5,4 @@
 
 ## Author
 
-**Ritvik Khanna**
+**Partha Mehta**
