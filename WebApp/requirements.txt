@@ -4,7 +4,7 @@ cloud-init==18.4
 command-not-found==0.3
 configobj==5.0.6
 cryptography==1.2.3
-Flask==0.10.1
+Flask==1.0
 gunicorn==19.9.0
 idna==2.0
 imutils==0.5.2
