@@ -16,7 +16,7 @@ language-selector==0.1
 MarkupSafe==0.23
 numpy==1.16.2
 oauthlib==1.0.3
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 pbr==5.1.1
 prettytable==0.7.2
 pyasn1==0.1.9
